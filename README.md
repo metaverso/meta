@@ -1,2 +1,7 @@
-# meta
-Mixed/hybrid reality (virtual reality, augmented reality and holography)
+# Meta
+Application for mixed/hybrid reality
++ virtual reality
++ augmented reality
++holography
+
+(Site http://meta.metaverso.ai)
