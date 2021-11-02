@@ -4,4 +4,4 @@ Application for mixed/hybrid reality
 + augmented reality
 + holography
 
-(Site http://meta.metaverso.ai)
+(Site https://meta.metaverso.ai)
