@@ -2,6 +2,6 @@
 Application for mixed/hybrid reality
 + virtual reality
 + augmented reality
-+holography
++ holography
 
 (Site http://meta.metaverso.ai)
